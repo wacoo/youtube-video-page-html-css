@@ -1,0 +1,41 @@
+header{
+    display: flex;
+}
+.logo_section{
+    height: 10vh;
+    display: flex;
+}
+
+#menu_icon embed{
+    width: 300px;
+    height: 100px;
+}
+.search_bar{
+    padding: 20px;
+    padding-left: 20vw;
+}
+
+.search_bar form input {
+    width: 30vw;
+    height: 5vh;
+    margin-right: 0;
+    padding-right: 0;
+    border-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.search_bar form button {
+    width: 5vw;
+    height: 6vh;
+    margin-left: 0;
+    padding-left: 0;
+    border-radius: 47%;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.display{
+    padding: 100px;
+    text-align: center;
+}
